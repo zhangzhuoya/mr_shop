@@ -1,6 +1,7 @@
 <template>
-	<view class="content">
-     		分类页面
+	<view class="">
+		消息
+		
 	</view>
 </template>
 
